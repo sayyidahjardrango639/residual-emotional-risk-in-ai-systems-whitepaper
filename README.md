@@ -12,7 +12,9 @@ The paper offers a realistic, field informed perspective on AI limitations, huma
 📁 Files
 
 📄 Whitepaper (PDF)
+
 📘 README.md (this file)
+
 📜 LICENSE.md (CC BY-NC-ND 4.0)
 
 
